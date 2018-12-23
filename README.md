@@ -3,6 +3,7 @@
 ## Projects
 
 * [GayMaps](http://airon90.github.io/GayMaps/index.html)
+* [learnDecl](http://airon90.github.io/learnDecl/index.html)
 
 ## Contacts
 
