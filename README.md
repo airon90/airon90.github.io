@@ -1,8 +1,16 @@
 # AironWeb
 
-## Projects
+## Me
+* Birth date: 1990-02-05
+* Languages: it-N, en-2, eo-2, fi-1
+* PC: Arch Linux + GNOME
+* Into: Politics, Board games, Computer, Environment, Music, Finland
+* Other: Vegan
+
+## Projects on Github
 ### Active
 * [learnDecl](http://airon90.github.io/learnDecl/index.html)
+* [SexTurn](https://github.com/airon90/SexTurn)
 
 ### Defunct
 * [GayMaps](http://airon90.github.io/GayMaps/index.html) → [Qiekub](https://map.qiekub.org)
@@ -26,3 +34,4 @@
 * [inventaire.io](https://inventaire.io/inventory/airon90)
 * [GitHub](https://github.com/airon90)
 * [GitLab](https://gitlab.com/airon90)
+* <del>[PlanetRomeo](https://planetromeo.com/profile/airon90)</del> Happily taken since 2019-11-15 🥰
