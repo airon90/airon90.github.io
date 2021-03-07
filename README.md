@@ -5,7 +5,8 @@
 * Languages: it-N, en-2, eo-2, fi-1
 * PC: Arch Linux + GNOME
 * Into: Politics, Board games, Computer, Environment, Music, Finland
-* Other: Vegan
+* Other: Bisexual, Vegan
+* Nintendo Switch: SW-3676-5273-2316
 
 ## Projects on Github
 ### Active
@@ -27,11 +28,17 @@
 * [MusicBrainz](https://musicbrainz.org/user/Airon90)
 
 ### Social networks and other websites
+#### Social networks
 * [Diaspora](https://diasp.eu/u/airon90)
 * [Facebook](https://facebook.com/airon90)
 * [Instagram](https://instagram.com/airon90)
 * [Reddit](https://reddit.com/u/airon90)
+* <del>[PlanetRomeo](https://planetromeo.com/profile/airon90)</del> Happily taken since 2019-11-15 🥰
+
+#### Interests
+* [ListenBrainz](https://listenbrainz.org/user/Airon90)
 * [inventaire.io](https://inventaire.io/inventory/airon90)
+
+#### Coding
 * [GitHub](https://github.com/airon90)
 * [GitLab](https://gitlab.com/airon90)
-* <del>[PlanetRomeo](https://planetromeo.com/profile/airon90)</del> Happily taken since 2019-11-15 🥰
