@@ -32,11 +32,13 @@
 * [Diaspora](https://diasp.eu/u/airon90)
 * [Facebook](https://facebook.com/airon90)
 * [Instagram](https://instagram.com/airon90)
+* <a rel="me" href="https://mastodon.social/@airon90">Mastodon</a>
 * [Reddit](https://reddit.com/u/airon90)
 * <del>[PlanetRomeo](https://planetromeo.com/profile/airon90)</del> Happily taken since 2019-11-15 🥰
 
 #### Interests
 * [ListenBrainz](https://listenbrainz.org/user/Airon90)
+* [Spotify](https://open.spotify.com/user/airon90)
 * [inventaire.io](https://inventaire.io/inventory/airon90)
 
 #### Coding
