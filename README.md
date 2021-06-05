@@ -29,12 +29,12 @@
 
 ### Social networks and other websites
 #### Social networks
-* [Diaspora](https://diasp.eu/u/airon90)
 * [Facebook](https://facebook.com/airon90)
 * [Instagram](https://instagram.com/airon90)
 * <a rel="me" href="https://mastodon.social/@airon90">Mastodon</a>
+* [Diaspora](https://diasp.eu/u/airon90)
 * [Reddit](https://reddit.com/u/airon90)
-* <del>[PlanetRomeo](https://planetromeo.com/profile/airon90)</del> Happily taken since 2019-11-15 🥰
+* <del>[PlanetRomeo](https://planetromeo.com/profile/airon90)</del> Happily taken since 2019-11-15 🥰 ([Old profile description](https://cloud.disroot.org/s/dwdGrEra7zdyL8e))
 
 #### Interests
 * [ListenBrainz](https://listenbrainz.org/user/Airon90)
