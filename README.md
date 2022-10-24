@@ -39,6 +39,7 @@
 #### Interests
 * [ListenBrainz](https://listenbrainz.org/user/Airon90)
 * [Spotify](https://open.spotify.com/user/airon90)
+* [Steam](https://steamcommunity.com/id/airon90)
 * [inventaire.io](https://inventaire.io/inventory/airon90)
 
 #### Coding
