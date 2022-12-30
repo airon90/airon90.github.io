@@ -52,4 +52,4 @@
 * [GitLab](https://gitlab.com/airon90)
 
 #### Other
-* <del>[PlanetRomeo](https://planetromeo.com/profile/airon90)</del> Happily taken since 2019-11-15 🥰 ([Old profile description](https://cloud.disroot.org/s/dwdGrEra7zdyL8e))
+* <del>[PlanetRomeo](https://planetromeo.com/profile/airon90)</del> ([Old profile description](https://cloud.disroot.org/s/dwdGrEra7zdyL8e))
