@@ -3,11 +3,11 @@
 ## Me
 * Birth date: 1990-02-05
 * Languages: it-N, en-2, eo-2, fi-1
-* PC: HP 255 G4
+* PC: HP 255 G4 laptop
 * OS: Arch Linux + GNOME
 * Into: Politics, Board games, Computer, Environment, Music, Finland
 * Other: Bisexual, Vegan
-* Nintendo Switch: SW-3676-5273-2316
+* Nintendo Switch: ```SW-3676-5273-2316```
 
 ## Projects on Github
 ### Active
@@ -21,7 +21,7 @@
 ### IM
 * [Telegram](https://t.me/airon90)
 * [Messenger](https://m.me/airon90) (defunct)
-* [Skype](skype://airon90x)
+* <a href="skype:airon90x?userinfo">Skype</a>
 
 ### Projects I contribute
 * [Wikidata](https://www.wikidata.org/wiki/User:Airon90)
