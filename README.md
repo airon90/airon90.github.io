@@ -53,4 +53,3 @@
 
 #### Other
 * <del>[PlanetRomeo](https://planetromeo.com/profile/airon90)</del> ([Old profile description](https://cloud.disroot.org/s/dwdGrEra7zdyL8e))
-* <a href="geo:0,0?q=Via+Gatto,+Milano">Test</a>
