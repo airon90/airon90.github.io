@@ -3,7 +3,9 @@
 ## Me
 * Birth date: 1990-02-05
 * Languages: it-N, en-2, eo-2, fi-1
-* PC: HP 255 G4 laptop
+* PC:
+  * HP 255 G4 laptop
+  * Raspberry Pi 5
 * OS: Arch Linux + GNOME
 * Into: Politics, Board games, Computer, Environment, Music, Finland
 * Other: Bisexual, Vegan
@@ -37,12 +39,13 @@
 
 ##### FLOSS social networks
 * <a rel="me" href="https://mastodon.social/@airon90">Mastodon</a>
-* [Diaspora](https://diasp.eu/u/airon90) (defunct)
 * [Pixelfed](https://pixelfed.eu/airon90)
+* [Diaspora](https://diasp.eu/u/airon90) (defunct)
 
 #### Interests
 * [ListenBrainz](https://listenbrainz.org/user/Airon90)
 * [Spotify](https://open.spotify.com/user/airon90)
+* [libre.fm](https://libre.fm/user/Airon90)
 * [Steam](https://steamcommunity.com/id/airon90)
 * [inventaire.io](https://inventaire.io/inventory/airon90)
 * [BoardGameGeek](https://boardgamegeek.com/user/airon90)
