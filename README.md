@@ -10,6 +10,7 @@
 * Into: Politics, Board games, Computer, Environment, Music, Finland
 * Other: Bisexual, Vegan
 * Nintendo Switch: [```SW-3676-5273-2316```](https://lounge.nintendo.com/friendcode/3676-5273-2316/DKvPZpvtKZ)
+* [My wishlist](https://airon90.github.io/wishlist.html)
 
 ## Projects on Github
 ### Active
