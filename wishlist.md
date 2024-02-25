@@ -43,7 +43,6 @@
 	* *Banditi senza tempo*
 	* *Il futuro e la memoria*
 	* *Avanzo de cantiere*
-	* *Figli della stessa rabbia*
 	* *Así es mi vida*
 * Bandabardò
 	* *Iniziali Bì Bì*
@@ -136,8 +135,123 @@
 	* *Adult Music*
 	* *Freak & Chic*
 	* *Porn Groove 2004/2009*
-* ...
-
+* Induction
+	* *Born from Fire*
+* JVG
+* Kasmir
+	* *AMK Dropout*
+* Korpiklaani
+	* *Voice of Wilderness*
+ 	* *Live at Masters of Rock*
+* Linkin Park
+	* *Hybrid Theory*
+	* *Reanimation*
+	* *Meteora*
+	* *Live in Texas*
+* Mercanti di Liquore
+	* *Live in Dada*
+	* *Musica dei poveri*
+* Modena City Ramblers
+	* *Riaccolti*
+	* *Raccolti*
+	* *Altomare*
+	* *Venti*
+	* *Radio Rebelde*
+	* *La grande famiglia*
+	* *Appunti partigiani*
+	* *Terra e libertà*
+	* *Viva la vida, muera la muerte*
+	* *Riportando tutto a casa*
+* Myss Keta
+	* *L'agelo dall'occhiale da sera: col cuore in gola*
+	* *Una vita in capslock*
+* Nanowar of Steel
+	* *Dislike to False Metal*
+	* *Into Gay Pride Ride*
+	* *Other bands play, Nanowar gay*
+	* *Sodali do it better*
+	* *Tourmentone Volume I*
+	* *Italian Folk Metal*
+	* *Stairway to Valhalla*
+* Rammstein
+	* *Zeit*
+	* *Rammstein*
+	* *Paris (Live)*
+	* *Live aus Berlin*
+	* *Herzeleid*
+	* *Rosenrot*
+	* *Reise Reise*
+	* *Mutter*
+	* *Sehnsucht*
+* Rumahoy
+	* *Time II: Party*
+	* *The Triumph of Piracy*
+* Sanni
+	* *Sanni*
+	* *Sotke mut*
+	* *Lelu*
+	* *Kesken*
+	* *Trippi*
+* Sean Paul
+	* *Dutty Rock*
+* Sentenced
+	* *The Funeral Album*
+* Sonata Arctica
+	* *Ecliptica*
+	* *Winterheart's Guild*
+	* *Silence*
+	* *Songs of Silence*
+	* *Acoustic Adventures I*
+	* *Acoustic Adventures II*
+	* *Takatalvi*
+	* *For the Sake of Revenge*
+	* *Reckoning Night*
+	* *Unia*
+	* *Live in Finland*
+* Spekti
+	* *Rakas Spektistan*
+* Stratovarius
+	* *Fright Night*
+	* *Survive*
+	* *Visions*
+	* *Visions of Europe*
+	* *Destiny*
+	* *Episode*
+* Symphony X
+	* *The Divine Wings of Tragedy*
+* System of a Down
+	* *Hypnotize*
+* Talco
+	* *Videogame*
+	* *La cretina commedia*
+	* *Mazel Tov*
+	* *Combat Circus*
+	* *Tutti assolti*
+	* *10 Years*
+	* *Gran Galà*
+* Teflon Brothers
+	* *Circus*
+ 	* *Isänpäivä*
+	* *Valkoinen dyynien ratsastajat*
+ 	* *Loppuunmyyty*
+* Temperance
+	* *Viridian*
+	* *Diamanti*
+* The Darkness
+	* *Permission to Land*
+* Twilight Force
+	* *Heroes of Mighty Magic*
+* White Skull
+	* *Metal Never Rusts*
+* Within Temptation
+	* *Enter*
+	* *The Dance*
+	* *Mother Earth*
+	* *The Silent Force*
+	* *The Heart of Everything*
+	* *Mother Earth Tour*
+	* *The Silent Force Tour*
+	* *Black Symphony*
 
 ## Games
 ### Board Games
