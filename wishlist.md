@@ -142,7 +142,7 @@
 	* *AMK Dropout*
 * Korpiklaani
 	* *Voice of Wilderness*
- 	* *Live at Masters of Rock*
+	* *Live at Masters of Rock*
 * Linkin Park
 	* *Hybrid Theory*
 	* *Reanimation*
@@ -231,9 +231,9 @@
 	* *Gran Galà*
 * Teflon Brothers
 	* *Circus*
- 	* *Isänpäivä*
+	* *Isänpäivä*
 	* *Valkoinen dyynien ratsastajat*
- 	* *Loppuunmyyty*
+	* *Loppuunmyyty*
 * Temperance
 	* *Viridian*
 	* *Diamanti*
