@@ -50,10 +50,6 @@
 	* *Tre passi avanti*
 	* *L'improbabile*
 	* *Il circo mangione*
-	* *Non fa paura*
-* Bardomagno
-	* *Li bardi son tornati in locanda*
-	* *Vol. I*
 * Beast in Black
 	* *Berserker*
 	* *From Hell with Love*
@@ -104,8 +100,6 @@
 	* *Omega Alive*
 	* *The Alchemy Project*
 	* *Live At AFAS Live*
-* Evanescence
-	* *Fallen*
 * Folkabbestia
 	* *Perche*
 	* *Se la rosa non si chiamerebbe Rosa Rita sarebbe il suo nome*
@@ -144,17 +138,13 @@
 	* *Voice of Wilderness*
 	* *Live at Masters of Rock*
 * Linkin Park
-	* *Hybrid Theory*
 	* *Reanimation*
-	* *Meteora*
 	* *Live in Texas*
 * Mercanti di Liquore
 	* *Live in Dada*
 	* *Musica dei poveri*
 * Modena City Ramblers
-	* *Riaccolti*
 	* *Raccolti*
-	* *Altomare*
 	* *Venti*
 	* *Radio Rebelde*
 	* *La grande famiglia*
@@ -252,18 +242,3 @@
 	* *Mother Earth Tour*
 	* *The Silent Force Tour*
 	* *Black Symphony*
-
-## Games
-### Board Games
-* Scythe
-* La casa della follia
-* Zombiecide
-* Kutná Hora
-* Takenoko
-* Terraforming Mars
-* Tiletum
-* Flamme Rouge
-* ...
-
-### Videogames
-* ...
