@@ -8,7 +8,7 @@
   * Raspberry Pi 5
 * OS: Arch Linux + GNOME
 * Into: Politics, Board games, Computer, Environment, Music, Finland
-* Other: Bisexual, Vegan
+* Other: LGBT, Vegan
 * Nintendo Switch: [```SW-3676-5273-2316```](https://lounge.nintendo.com/friendcode/3676-5273-2316/DKvPZpvtKZ)
 * [My wishlist](https://airon90.github.io/wishlist.html)
 
@@ -57,4 +57,4 @@
 * [GitLab](https://gitlab.com/airon90)
 
 #### Other
-* <del>[PlanetRomeo](https://planetromeo.com/profile/airon90)</del> ([Old profile description](https://cloud.disroot.org/s/dwdGrEra7zdyL8e))
+* <del>[PlanetRomeo](https://romeo.com/profile/airon90)</del> ([Old profile description](https://cloud.disroot.org/s/dwdGrEra7zdyL8e))
