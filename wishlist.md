@@ -154,7 +154,6 @@
 	* *Riportando tutto a casa*
 * Myss Keta
 	* *L'agelo dall'occhiale da sera: col cuore in gola*
-	* *Una vita in capslock*
 * Nanowar of Steel
 	* *Dislike to False Metal*
 	* *Into Gay Pride Ride*
@@ -163,6 +162,18 @@
 	* *Tourmentone Volume I*
 	* *Italian Folk Metal*
 	* *Stairway to Valhalla*
+* Nightwish
+        * *Oceanborn*
+        * *Wishmaster*
+        * *Over The Hills and Far Away*
+        * *Century Child*
+        * *Once*
+        * *End of an Era*
+        * *Dark Passion Play*
+        * *Imaginaerum*
+        * *Endless Form Most Beautiful*
+        * *Human Nature*
+        * *Yesterwynde*
 * Rammstein
 	* *Zeit*
 	* *Rammstein*
