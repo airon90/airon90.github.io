@@ -33,10 +33,12 @@
 
 ### Social networks and other websites
 #### Social networks
-* [Facebook](https://facebook.com/airon90)
-* [Twitter](https://twitter.com/airon90) (defunct)
+
 * [Instagram](https://instagram.com/airon90)
-* [Reddit](https://reddit.com/u/airon90)
+* [Bluesky](https://bsky.app/profile/airon90.bsky.social)
+* [Facebook](https://facebook.com/airon90) (defunct)
+* [Twitter](https://twitter.com/airon90) (defunct)
+* [Reddit](https://reddit.com/u/airon90) (defunct)
 
 ##### FLOSS social networks
 * <a rel="me" href="https://mastodon.social/@airon90">Mastodon</a>
@@ -57,4 +59,6 @@
 * [GitLab](https://gitlab.com/airon90)
 
 #### Other
-* <del>[PlanetRomeo](https://romeo.com/profile/airon90)</del> ([Old profile description](https://cloud.disroot.org/s/dwdGrEra7zdyL8e))
+* [PlanetRomeo](https://romeo.com/profile/airon90) ([Old profile description](https://cloud.disroot.org/s/dwdGrEra7zdyL8e))
+* [Recon](https://www.recon.com/view_profile.aspx?id=2470133)
+* [Switched](https://switchedapp.com/@airon90)
