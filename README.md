@@ -50,6 +50,7 @@
 * [Spotify](https://open.spotify.com/user/airon90)
 * [libre.fm](https://libre.fm/user/Airon90)
 * [setlist.fm](https://www.setlist.fm/user/airon90)
+* [Bandcamp](https://bandcamp.com/airon90)
 * [Steam](https://steamcommunity.com/id/airon90)
 * [inventaire.io](https://inventaire.io/inventory/airon90)
 * [BoardGameGeek](https://boardgamegeek.com/user/airon90)
