@@ -82,10 +82,6 @@
 	* Gli album live
 * Ellips
 	* *Yhden naisen hautajaiset*
-* Ensiferum
-	* *Ensiferum*
-	* *Iron*
-	* *Dragonheads*
 * Epica
 	* *The Phantom Agony*
 	* *The Divine Cospiracy*
@@ -224,12 +220,8 @@
 	* *Hypnotize*
 * Talco
 	* *Videogame*
-	* *La cretina commedia*
-	* *Mazel Tov*
-	* *Combat Circus*
 	* *Tutti assolti*
 	* *10 Years*
-	* *Gran Galà*
 * Teflon Brothers
 	* *Circus*
 	* *Isänpäivä*
