@@ -24,7 +24,7 @@
 ### IM
 * [Telegram](https://t.me/airon90)
 * [Messenger](https://m.me/airon90) (defunct)
-* <a href="skype:airon90x?userinfo">Skype</a>
+* <a href="skype:airon90x?userinfo">Skype</a> (defunct)
 
 ### Projects I contribute
 * [Wikidata](https://www.wikidata.org/wiki/User:Airon90)
