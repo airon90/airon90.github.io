@@ -45,7 +45,6 @@
 	* *Avanzo de cantiere*
 	* *Así es mi vida*
 * Bandabardò
-	* *Iniziali Bì Bì*
 	* *Mojito F.C.*
 	* *Tre passi avanti*
 	* *L'improbabile*
@@ -96,6 +95,7 @@
 	* *Omega Alive*
 	* *The Alchemy Project*
 	* *Live At AFAS Live*
+    * *Aspiral*
 * Folkabbestia
 	* *Perche*
 	* *Se la rosa non si chiamerebbe Rosa Rita sarebbe il suo nome*
